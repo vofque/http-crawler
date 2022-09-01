@@ -11,7 +11,7 @@
     <properties>
         <java.version>1.8</java.version>
         <org.apache.maven.plugins.version>3.7.0</org.apache.maven.plugins.version>
-        <org.jsoup.version>1.11.2</org.jsoup.version>
+        <org.jsoup.version>1.15.3</org.jsoup.version>
         <junit.version>4.12</junit.version>
     </properties>
 
